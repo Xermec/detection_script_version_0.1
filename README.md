@@ -1,0 +1,2 @@
+# detection_script_version_0.1
+detection_script_against_c&amp;c_framework
